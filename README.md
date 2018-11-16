@@ -10,4 +10,6 @@ This is added for pull request
 11/06/2018
 
 
-Check pull request
+Check pull request.
+
+Checkout this text from Remote Branch
